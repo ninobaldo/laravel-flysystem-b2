@@ -2,7 +2,7 @@
 
     namespace Skydiver\LaravelFlysystemB2;
 
-    use Storage;
+    use Illuminate\Support\Facades\Storage;
     use League\Flysystem\Filesystem;
     use Illuminate\Support\ServiceProvider;
     use ChrisWhite\B2\Client as B2Client;
