@@ -1,5 +1,5 @@
 {
-    "name": "skydiver/laravel-flysystem-b2",
+    "name": "ninobaldo/laravel-flysystem-b2",
     "description": "Adds Backblaze B2 driver to use with Laravel filesystem",
     "keywords": ["Backblaze", "B2", "Laravel", "filesystem", "flysystem"],
     "license": "MIT",
